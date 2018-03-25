@@ -17,7 +17,7 @@ public class driver {
     private int age = 0;
     private String status;
     private String judge;
-    Person p, pf;
+    private Person p, pf;
     Scanner sc = new Scanner(System.in);
     List<Person> pr = new ArrayList<Person>();
 
