@@ -10,7 +10,7 @@ public class driver {
      * Person p is used for temporary store the object which is Adult or Child
      * Person pf is used for temporary store the relevant object while input the name(String)
      * pr is an arrayList to store the array dynamically
-     * 
+     *
      */
     private String name;
     private String gender;
