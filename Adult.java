@@ -6,7 +6,7 @@ public class Adult extends Person {
     /**
      * a is used for temporary store the object of connection class
      */
-    connection a;
+    private connection a;
     Scanner sc = new Scanner(System.in);
 
     /**

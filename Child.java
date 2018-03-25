@@ -7,7 +7,7 @@ public class Child extends Person {
      * p is used for temporary store the object of connection class
      */
     Scanner sc = new Scanner(System.in);
-    connection p;
+    private connection p;
 
     /**
      * create constructor
